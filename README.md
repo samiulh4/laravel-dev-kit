@@ -1,1 +1,2 @@
-php artisan make:module FileManager"# laravel-dev-kit" 
+# How to use l5-moduler
+`php artisan make:module FileManager`
