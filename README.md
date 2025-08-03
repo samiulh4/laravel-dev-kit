@@ -48,7 +48,6 @@ composer require laravel/reverb
 php artisan reverb:install
 npm install --save-dev laravel-echo pusher-js
 
-
 ## Clear Cache & Optimize
 composer dump-autoload
 php artisan config:clear
@@ -56,3 +55,4 @@ php artisan cache:clear
 php artisan route:clear
 php artisan view:clear
 php artisan optimize:clear
+```
